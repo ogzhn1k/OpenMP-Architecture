@@ -1,0 +1,7 @@
+﻿  CMP641_Parallel.cpp
+C:\Users\oguzh\source\repos\CMP641_Parallel\CMP641_Parallel\CMP641_Parallel.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\oguzh\source\repos\CMP641_Parallel\CMP641_Parallel\CMP641_Parallel.cpp(85,22): warning C4101: 'mB': unreferenced local variable
+C:\Users\oguzh\source\repos\CMP641_Parallel\CMP641_Parallel\CMP641_Parallel.cpp(84,22): warning C4101: 'mA': unreferenced local variable
+C:\Users\oguzh\source\repos\CMP641_Parallel\CMP641_Parallel\CMP641_Parallel.cpp(177,22): warning C4101: 'mB': unreferenced local variable
+C:\Users\oguzh\source\repos\CMP641_Parallel\CMP641_Parallel\CMP641_Parallel.cpp(176,22): warning C4101: 'mA': unreferenced local variable
+  CMP641_Parallel.vcxproj -> C:\Users\oguzh\source\repos\CMP641_Parallel\x64\Debug\CMP641_Parallel.exe
